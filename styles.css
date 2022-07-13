@@ -7,7 +7,7 @@ body {
 	display: flex;
 }
 .font-color {
-	color: #a59aff;
+	color: #ee9aff;
 	font-weight: 200;
 	font-style: italic;
 }
@@ -63,6 +63,7 @@ nav ul a:hover {
 	margin: 0;
 	text-shadow: 0 0 8px #000;
 	padding-right: 1em;
+	color: #a59aff;
 }
 #intro p {
 	margin-left: 150px;
