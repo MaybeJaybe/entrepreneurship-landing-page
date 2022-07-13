@@ -21,14 +21,14 @@ main > section {
 	align-items: baseline;
 	padding: .5em;
 	background-color: #1d1818;
-	color: #a59aff;
+	color: #ee9aff;
 }
 nav h2, ul {
 	margin: 0
 }
 nav a {
 	text-decoration: none;
-	color: #a59aff;
+	color: #ee9aff;
 }
 nav ul {
 	display: flex;
@@ -36,20 +36,20 @@ nav ul {
 }
 nav ul a {
 	padding: 1em;
-	color: #746aff;
+	color: #db72f0;
 }
 nav ul a:hover {
-	color: #a59aff;
+	color: #ee9aff;
 }
 
 #intro {
 	background-color: #242327;
-	background-image: url("images/wisteria.jpeg");
+	background-image: url("images/festival-bridge.jpeg");
 	background-size: cover;
 	display: flex;
 	align-items: flex-start;
 	font-size: 4em;
-	color: #a59aff;
+	color: #ee9aff;
 	min-height: 100vh;
 }
 #intro > div {
@@ -63,7 +63,7 @@ nav ul a:hover {
 	margin: 0;
 	text-shadow: 0 0 8px #000;
 	padding-right: 1em;
-	color: #a59aff;
+	color: #ee9aff;
 }
 #intro p {
 	margin-left: 150px;
